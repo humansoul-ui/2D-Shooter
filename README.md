@@ -1,9 +1,9 @@
 # 🎯 2D Shooter Project
-
+[![Play on itch.io](https://img.shields.io/badge/Play%20On-itch.io-orange?style=for-the-badge&logo=itch.io)](https://humanhafezi.itch.io/2d-shooter)
 A fast-paced, feature-rich 2D shooter built in Unity. Take control, blast through hordes of enemies, and survive as long as you can! This project showcases a complete game loop with polished systems, developer tools, and an engaging story-driven campaign.
 
-[![Play on itch.io](https://img.shields.io/badge/Play%20On-itch.io-orange?style=for-the-badge&logo=itch.io)](https://humanhafezi.itch.io/2d-shooter)
 
+![image alt](https://github.com/humansoul-ui/2D-Shooter/blob/main/image.png)
 ## 🚀 Features
 
 - **Engaging Story Campaign:** Four unique levels tied together with an immersive narrative
